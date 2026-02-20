@@ -89,9 +89,14 @@ article div h3 {
   font-size: 1.3em;
 }
 
-/* article footer {
+article footer {
   height: 20%;
   background-color: #1d2029;
   color: rgb(248, 240, 240);
   justify-content: space-evenly;
-} */
+}
+
+footer {
+  background-color: #1d2029;
+  height: 10%;
+}
